@@ -1,6 +1,6 @@
 <?php
 $host     = 'bezzfegrojuoqujfyllu-mysql.services.clever-cloud.com';
-$dbname   = '<bezzfegrojuoqujfyllu'; // pon aquí el nombre de la BD de Clever Cloud
+$dbname   = 'bezzfegrojuoqujfyllu'; // pon aquí el nombre de la BD de Clever Cloud
 $username = 'u5hvv6m6tdetm25i';
 $password = 'eLKU7XXHpwdZeuItrZI3';
 $port     = '3306';
